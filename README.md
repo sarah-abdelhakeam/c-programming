@@ -1,2 +1,2 @@
 # c-programming
-c programming labs
+c programming labs in master not main
